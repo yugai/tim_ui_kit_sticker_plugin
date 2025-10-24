@@ -4,7 +4,7 @@ class TUIKitStickerConstData {
   static final List<CustomEmojiFaceData> emojiList = [
     CustomEmojiFaceData(
         name: '4349',
-        icon: "面罩.png",
+        icon: "微笑.png",
         isEmoji: true,
         list: [
           "微笑.png",
